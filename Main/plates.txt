@@ -1,0 +1,40 @@
+2024-09-19 06:49:20, Plate: RJILCVOOO2, Confidence: 0.83
+2024-09-19 06:49:43, Plate: HR26DO5551, Confidence: 0.88
+2024-09-19 06:51:03, Plate: ABCD-555  QURS TO DISCOVER ONTARIO, Confidence: 0.85
+2024-09-19 06:51:49, Plate: IND 22 BH 4477 A, Confidence: 0.87
+2024-09-19 06:52:04, Plate: IND UKIAA2345, Confidence: 0.88
+
+2024-09-19 06:59:01, Plate: DE C9 KD VD MV BA LK OW, Confidence: 0.84
+2024-09-19 06:59:27, Plate: IN NB 06 F5 97 7, Confidence: 0.84
+2024-09-19 06:59:44, Plate: HR 26 00 55 51 HR 26 00 55 54, Confidence: 0.85
+2024-09-19 07:00:04, Plate: 22 BH G2 2B HE S, Confidence: 0.84
+
+2024-09-19 07:03:22, Plate: KA G1 ER ZS GH HO KA CI ER A5 4, Confidence: 0.86
+2024-09-19 07:04:06, Plate: KA Z1 9E RL SL ZE R4 54 7A, Confidence: 0.87
+2024-09-19 07:04:43, Plate: HO 1 AE 8017, Confidence: 0.82
+
+2024-11-15 11:33:55, Plate: 22 Bh65174, Confidence: 0.81
+2024-11-15 11:35:12, Plate: HB "06 F 5977, Confidence: 0.73
+
+
+2024-11-28 13:19:02, Plate: HP 03 MF 4477, Confidence: 0.78
+2024-12-05 11:01:56, Plate: IND KL 03 MF 4477, Confidence: 0.91
+2024-12-05 11:04:03, Plate: IND KL 03 MF 4477, Confidence: 0.91
+2024-12-05 11:07:20, Plate: INd 22 A BH65 17 Gamy, Confidence: 0.67
+
+
+
+
+2024-12-05 12:09:48, Plate: IND KL 03 MF 4477, Confidence: 0.91
+
+
+
+
+2024-12-06 11:02:47, Plate: MH 18 EQ O001, Confidence: 0.81
+2024-12-06 11:03:47, Plate: IND KL 03 MF 4477, Confidence: 0.91
+
+
+
+2024-12-06 13:33:21, Plate: ML 03 MF 4477, Confidence: 0.84
+2024-12-06 13:37:10, Plate: IND ML 03 MF 4477, Confidence: 0.84
+2024-12-06 13:39:56, Plate: IND KL 03 MF 4477, Confidence: 0.91
